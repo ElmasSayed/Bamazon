@@ -49,7 +49,7 @@ function showProductListTable(queryResult){
 			table.push(row);
 		}
 		console.log(table.toString());
-}
+}   
 // ------------------------------------------------------------------------------------------------------
 // Customer order
 setTimeout(function(){
